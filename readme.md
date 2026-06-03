@@ -12,7 +12,7 @@ While standard Deep Learning models act as "black boxes," providing predictions 
 ## Visual Results: AI Interpretability
 *The images below demonstrate the model's prediction alongside the Grad-CAM heatmap, proving the model is focusing on the correct physical features of the object rather than background noise.*
 
-![Grad-CAM Thermal Vision Diagnostics](assets/gradcam_output.jpg)
+![Grad-CAM Thermal Vision Diagnostics](gradcam_output.jpg)
 
 ## Technical Implementation
 This project is built using an Object-Oriented approach in Python, consisting of three main engineering pillars:
