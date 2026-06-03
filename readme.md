@@ -13,7 +13,7 @@ While standard Deep Learning models act as "black boxes," providing predictions 
 *The images below demonstrate the model's prediction alongside the Grad-CAM heatmap, proving the model is focusing on the correct physical features of the object rather than background noise.*
 
 <div align="center">
-  <img src="" alt="Grad-CAM Output on Eggplant" width="600"/>
+  <img src="" alt="Grad-CAM Output" width="600"/>
 </div>
 
 ## Technical Implementation
